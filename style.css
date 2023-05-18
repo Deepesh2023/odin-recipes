@@ -1,0 +1,26 @@
+/*image properties*/
+img {
+    height: 300px;
+    width: auto;
+    padding: 20px;
+}
+
+/*general body properties*/
+body {
+    padding: 70px;
+}
+
+/*font properties*/
+h1 {
+    font-size: 50px;
+}
+
+a,
+h2 {
+    font-size: 25px;
+}
+
+p,
+li {
+    font-size: 20px;
+}
