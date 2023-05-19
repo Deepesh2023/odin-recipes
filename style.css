@@ -1,3 +1,25 @@
+/*general body properties*/
+body {
+    padding: 70px;
+    background-color: #9dcc81;
+}
+
+/*colour styling*/
+div {
+    background-color: #7ba867;
+    height: auto;
+    width: 600px;
+}
+
+div p,
+h2 {
+    background-color: #177530;
+}
+
+a, h2 {
+    color: white;
+}
+
 /*image properties*/
 img {
     height: 300px;
@@ -5,12 +27,16 @@ img {
     padding: 20px;
 }
 
-/*general body properties*/
-body {
-    padding: 70px;
+#food {
+    height: fit-content;
+    width: auto;
 }
 
 /*font properties*/
+*{
+    font-family: monospace;
+}
+
 h1 {
     font-size: 50px;
 }
@@ -24,3 +50,4 @@ p,
 li {
     font-size: 20px;
 }
+
